@@ -164,7 +164,7 @@ It may not be suitable for all tax situations. Users with complex tax needs
 should consider consulting a qualified tax professional.
 
 ----------------------------------------------------
-Important Disclaimer
+Disclaimer
 ----------------------------------------------------
 
 This website is an **independent informational guide** created to explain
