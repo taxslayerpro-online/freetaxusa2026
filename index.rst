@@ -1,12 +1,12 @@
 .. _index:
 
 ====================================================
-FreeTaxUSA 2026 | Online Tax Filing & Account Guide
+FreeTaxUSA 2025 | Online Tax Filing & Account Guide
 ====================================================
 
-Welcome to the **FreeTaxUSA 2026 Guide**.  
+Welcome to the **FreeTaxUSA 2025 Guide**.  
 This website is designed to help users understand how to use **FreeTaxUSA**
-for online tax filing during the **2026 tax season**, including account login,
+for online tax filing during the **2025 tax season**, including account login,
 filing basics, and frequently asked questions.
 
 Whether you are a first-time filer or returning from a previous year, this
@@ -56,7 +56,7 @@ guide provides simple, easy-to-follow information.
     </style>
 
 ----------------------------------------------------
-FreeTaxUSA 2026 Login
+FreeTaxUSA 2025 Login
 ----------------------------------------------------
 
 To start filing your taxes, log in to your FreeTaxUSA account using the official
@@ -82,7 +82,7 @@ What Is FreeTaxUSA?
 **FreeTaxUSA** is an online tax preparation service that allows users to prepare
 and file federal income tax returns for free, with optional paid state filing.
 
-For the **2026 tax year**, FreeTaxUSA helps users to:
+For the **2025 tax year**, FreeTaxUSA helps users to:
 
 - Prepare and file federal tax returns online  
 - File state tax returns (optional fee may apply)  
@@ -91,15 +91,15 @@ For the **2026 tax year**, FreeTaxUSA helps users to:
 - Access prior-year tax returns  
 
 ----------------------------------------------------
-Understanding the FreeTaxUSA 2026 Tax Year
+Understanding the FreeTaxUSA 2025 Tax Year
 ----------------------------------------------------
 
-The **FreeTaxUSA 2026 filing season** applies to income earned during the
-**2025 calendar year**, with returns filed in **2026**.
+The **FreeTaxUSA 2025 filing season** applies to income earned during the
+**2024 calendar year**, with returns filed in **2025**.
 
 Key points to remember:
 
-- Federal tax deadlines usually fall in April 2026  
+- Federal tax deadlines usually fall in April 2025  
 - Filing extensions may be available if needed  
 - Filing early can help reduce delays and errors  
 
@@ -131,7 +131,7 @@ Helpful explanations are provided throughout the process.
 Account Access & Common Login Issues
 ----------------------------------------------------
 
-If you experience login issues with your **FreeTaxUSA 2026 account**, try the
+If you experience login issues with your **FreeTaxUSA 2025 account**, try the
 following:
 
 - Verify your email address and password  
@@ -154,7 +154,7 @@ FreeTaxUSA uses security features designed to protect user data, including:
 Always log out after using shared or public devices.
 
 ----------------------------------------------------
-Who Should Use FreeTaxUSA 2026?
+Who Should Use FreeTaxUSA 2025?
 ----------------------------------------------------
 
 FreeTaxUSA is commonly used by:
@@ -180,7 +180,7 @@ All trademarks and brand names belong to their respective owners.
 Conclusion
 ----------------------------------------------------
 
-FreeTaxUSA 2026 provides a convenient way to file federal and state tax returns
+FreeTaxUSA 2025 provides a convenient way to file federal and state tax returns
 online. This guide helps users understand login access, filing basics, and the
 overall process before getting started.
 
