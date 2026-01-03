@@ -10,8 +10,8 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'FreeTaxUSA 2026'
-copyright = '2026, FreeTaxUSA Guide'
+project = 'FreeTaxUSA 2025'
+copyright = '2025, FreeTaxUSA Guide'
 author = 'FreeTaxUSA Help Center'
 
 # The full version, including alpha/beta/rc tags
@@ -35,8 +35,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # html_theme = 'sphinx_rtd_theme'
 
 # Basic page info (SEO-friendly)
-html_title = "FreeTaxUSA 2026 | File Taxes Online & Account Guide"
-html_short_title = "FreeTaxUSA 2026"
+html_title = "FreeTaxUSA 2025 | File Taxes Online & Account Guide"
+html_short_title = "FreeTaxUSA 2025"
 
 # Favicon (place in _static or root folder)
 html_favicon = 'favicon.ico'
